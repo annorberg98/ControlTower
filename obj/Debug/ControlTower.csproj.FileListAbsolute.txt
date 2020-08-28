@@ -1,0 +1,17 @@
+C:\Users\annor\Desktop\ControlTower\bin\Debug\ControlTower.exe.config
+C:\Users\annor\Desktop\ControlTower\bin\Debug\ControlTower.exe
+C:\Users\annor\Desktop\ControlTower\bin\Debug\ControlTower.pdb
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower.csprojAssemblyReference.cache
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTowerWindow.g.cs
+C:\Users\annor\Desktop\ControlTower\obj\Debug\FlightWindow.g.cs
+C:\Users\annor\Desktop\ControlTower\obj\Debug\App.g.cs
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower_MarkupCompile.cache
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower_MarkupCompile.lref
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTowerWindow.baml
+C:\Users\annor\Desktop\ControlTower\obj\Debug\FlightWindow.baml
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower.g.resources
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower.Properties.Resources.resources
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower.csproj.GenerateResource.cache
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower.csproj.CoreCompileInputs.cache
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower.exe
+C:\Users\annor\Desktop\ControlTower\obj\Debug\ControlTower.pdb

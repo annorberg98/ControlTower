@@ -1,0 +1,34 @@
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\ControlTowerWindow.g.cs
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\FlightWindow.g.cs
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\App.g.cs
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\ControlTowerWindow.baml
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\FlightWindow.baml
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5.g.resources
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\annor\Documents\Universitet\Programmering med C# II\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+C:\Users\annor\Desktop\Assignment5\bin\Debug\ControlTower.exe.config
+C:\Users\annor\Desktop\Assignment5\bin\Debug\ControlTower.exe
+C:\Users\annor\Desktop\Assignment5\bin\Debug\ControlTower.pdb
+C:\Users\annor\Desktop\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+C:\Users\annor\Desktop\Assignment5\obj\Debug\ControlTowerWindow.g.cs
+C:\Users\annor\Desktop\Assignment5\obj\Debug\FlightWindow.g.cs
+C:\Users\annor\Desktop\Assignment5\obj\Debug\App.g.cs
+C:\Users\annor\Desktop\Assignment5\obj\Debug\ControlTower_MarkupCompile.cache
+C:\Users\annor\Desktop\Assignment5\obj\Debug\ControlTower_MarkupCompile.lref
+C:\Users\annor\Desktop\Assignment5\obj\Debug\ControlTowerWindow.baml
+C:\Users\annor\Desktop\Assignment5\obj\Debug\FlightWindow.baml
+C:\Users\annor\Desktop\Assignment5\obj\Debug\ControlTower.g.resources
+C:\Users\annor\Desktop\Assignment5\obj\Debug\ControlTower.Properties.Resources.resources
+C:\Users\annor\Desktop\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+C:\Users\annor\Desktop\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\annor\Desktop\Assignment5\obj\Debug\ControlTower.exe
+C:\Users\annor\Desktop\Assignment5\obj\Debug\ControlTower.pdb
